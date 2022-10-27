@@ -192,7 +192,7 @@ pre {
 }
 
 #code {
-   font: 0.9em 'Droid Sans Mono', Arial;
+   font: 0.9em sans-serif;
 }
 
 
@@ -205,14 +205,14 @@ pre {
    padding: 35px;
    padding-bottom: 160px;
    text-align: left;
-   font: normal 1.3em 'Roboto', sans-serif;
+   font: normal 1.0em sans-serif;
    font-weight:300;
    line-height: 1.4;
 }
 
 #beauty {
    color: #009; 
-   font: 2em 'Roboto', Book Antiqua, Arial, sans-serif;
+   font: 1.5em Arial, sans-serif;
    line-height: 1.6;
 }
 
