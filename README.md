@@ -23,9 +23,9 @@ A network may not be displayed properly if the web browser cannot access local f
 An example for a solution using Python3:
 
 1. After extracting the files, on a terminal go to the directory where the index.html file is located, and run
-> python -m http.server 8888 &
+> `python -m http.server 8888 &`
 
 2. On your web browser, go to
-> localhost:8888
+> `localhost:8888`
 
 This should load the index.html page and the associated dynamic figures appropriately.
