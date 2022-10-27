@@ -21,8 +21,11 @@ All networks presented in HTML files were generated using Javascript script, spe
 A network may not be displayed properly if the web browser cannot access local files when interpreting the HTML file. Please ensure that your browser allows access to local files on your computer (from local HTML files); this option is disabled by default in some browsers, e.g. Google Chrome and Firefox.
 
 An example for a solution using Python3:
+
 1. After extracting the files, on a terminal go to the directory where the index.html file is located, and run
 > python -m http.server 8888 &
+
 2. On your web browser, go to
 > localhost:8888
+
 This should load the index.html page and the associated dynamic figures appropriately.
